@@ -24,7 +24,7 @@ public static void main(String[] args) {
     static double serieTaylor(double x) {
         double sumando, sumatoria = 0, precision = 0.0001d;
 
-        // limite superior, iteracion de la sumatoria
+
         int n = 0; 
 
         do {
